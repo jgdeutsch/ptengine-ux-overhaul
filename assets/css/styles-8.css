@@ -35,7 +35,7 @@ a:focus {
 .checkboxes li
 {
 	list-style-type: none;
-    background-image: url('/assets/images/background/checkbox-bullet.png');
+    background-image: url('http://zoidberg.routesys.com/~moiety/assets/images/background/checkbox-bullet.png');
     background-repeat: no-repeat;
     background-position: 0px 4px;
     padding-left: 24px;
