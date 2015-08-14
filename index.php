@@ -5,7 +5,7 @@
 <head>
     <title>Ptengine - Web Analytics and Heat Map Tool</title>
     <!-- Meta -->
-    <!-- James Deutsch edited line 14 -->
+    <!-- MORK -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="">
@@ -441,7 +441,7 @@
                     <div class="form-box" style="padding-bottom: 0px; margin-bottom: 0px;">     
                         <div class="form-box-inner">
 
-                    <form id="wizard_example" action="">
+                    <form id="wizard_example" action="dashboard.png">
                         <fieldset style="">
                             <legend>Email</legend>
                             <div class="row">
@@ -452,7 +452,7 @@
                                         <ul class="checkboxes">
                                         	<li>One month <strong>FREE</strong> of unlimited Ptengine<br>(no credit card required)</li>
                                         	<li>Unlimited <span style="border-bottom: 1px dotted">Heat Maps</span>, unlimited data on which visitors <span style="border-bottom: 1px dotted">Converted</span>, which ones <span style="border-bottom: 1px dotted">Completed Goals</span> <strong>and WHY</strong>
-                                        	<li>Free guides revealing <span style="border-bottom: 1px dotted">real</span> methods our customers have used to get stunning conversion rate increases</p>
+                                        	<li>Free guides revealing <strong>real methods</strong> our customers have used to get stunning conversion rate increases</p>
                                         </ul>
                                         </p>
                                         <input type="email" class="form-control" id="emailAddress"
@@ -473,8 +473,7 @@
 							        	<tr><td style="width:120px">
 			                                <img style="width: 100px" class="img-responsive img-circle" src="assets/images/people/robin-granlund.png" alt="">
             			                </td>
-							        	<td>"Hey, I'm Robin, Ptengine's customer success manager. Congratulations! I just emailed you with an offer to learn how to get started from me <strong>live and 1 on 1</strong>--for free! But please respond quickly,
-							        	<span style="border-bottom: 1px dotted">you only have 72 hours to collect it."</span></td>
+							        	<td>"Hey, I'm Robin, Ptengine's customer success manager. Congratulations! I just emailed you with a <strong>free offer</strong> to learn how to get started from me <strong>live and 1 on 1!</strong>"</td>
 							        	</tr>
 							        </table>
 							        <br>
@@ -494,14 +493,7 @@
                             <legend>Time Zone</legend>
                             <div class="row">
                                 <div class="col-lg-12">
-                                <p>There's only one step left! Make sure we detected your correct time zone, then click FINISH. You'll go straight into the Ptengine dashboard.</p>
-                                <p>Remember all the awesome stuff you'll be getting for free with Ptengine:</p>
-                                <p>
-                                	<ul class="checkboxes">
-                                		<li>More leads, sign-ups, and sales than you ever imagined.</li>
-                                		<li>The appreciation of visitors who will love that you can respond to their user behavior.</li>
-                                		<li>The praise from your client/boss, who will recognize you for the genius you are!</li>
-                                </p>
+                                <p>There's only one step left! Make sure we detected your correct time zone, then click FINISH.</p>
 <select class="form-control" id="timeZone" name="timeZone">
 	<option timeZoneId="1" gmtAdjustment="GMT-12:00" useDaylightTime="0" value="-12">(GMT-12:00) International Date Line West</option>
 	<option timeZoneId="2" gmtAdjustment="GMT-11:00" useDaylightTime="0" value="-11">(GMT-11:00) Midway Island, Samoa</option>
@@ -586,6 +578,13 @@
 	<option timeZoneId="81" gmtAdjustment="GMT+12:00" useDaylightTime="0" value="12">(GMT+12:00) Fiji, Kamchatka, Marshall Is.</option>
 	<option timeZoneId="82" gmtAdjustment="GMT+13:00" useDaylightTime="0" value="13">(GMT+13:00) Nuku'alofa</option>
 </select>
+                                <p><br>We'll take you straight into the Ptengine dashboard, where you'll get:</p>
+                                <p>
+                                	<ul class="checkboxes">
+                                		<li>More leads, sign-ups, and sales than you ever imagined.</li>
+                                		<li>The appreciation of visitors who will love that you can respond to their user behavior.</li>
+                                		<li>The praise from your client/boss, who will recognize you for the genius you are!</li>
+                                </p>
                                 </div>
                             </div>
                                 <noscript>
