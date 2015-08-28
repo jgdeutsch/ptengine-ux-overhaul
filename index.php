@@ -58,7 +58,6 @@
       window.scrollTo(scrollPosition[0], scrollPosition[1]);
     }
     </script>
-
 </head> 
 
 <body class="home-page">   
@@ -85,6 +84,7 @@
                         <li class="nav-item"><a href="http://ptengine.com/plan">Pricing</a></li>
                         <li class="nav-item"><a href="#">Log in</a></li>
                         <li class="nav-item nav-item-cta last"><a class="btn btn-cta btn-cta-secondary" href="#" onclick="register()">Get Started</a></li>
+<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'share.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}id=id+'_';if(!gi.call(d,id)){qs=ce.call(d,'link');qs.rel='stylesheet';qs.id=id;qs.href=b+'share-button.css';s=gt.call(d,'head')[0];s.appendChild(qs,s)}})()</script>
                     </ul><!--//nav-->
                 </div><!--//navabr-collapse-->
             </nav><!--//main-nav-->                     
@@ -107,9 +107,11 @@
 	            <div style="float: left;"><h2 class="title">Your visitors are&nbsp;</h2></div>
     	        <div style="margin-left: 1em; border-bottom: 5px solid white; overflow: hidden"><div><h2 class="title" style="margin: 0px; margin-bottom: 5px; padding: 0px;"><span id="type"></span></h2></div></div>
     	    </div>
-    	    <button type="button" class="btn btn-cta btn-cta-primary" onclick="register()">FIX IT NOW</button>
+            <p style="font-weight: bold; opacity: 1.0; margin-bottom: 0px; margin-top: 1em;" class="intro">So fix it! Know <i>exactly</i> what your visitors want with <span style="border-bottom: 1px dotted white">Ptengine</span>,<br>the world's ONLY affordable, easy-to-use <span class="underline">heat map</span> + <span class="underline">analytics</span> tool.</p>
+    	    <div>
+    	    	<button type="button" class="btn btn-cta btn-cta-primary" onclick="register()">SEE THE LIVE DEMO</button>
+    	    </div>
 
-            <p style="font-weight: bold; opacity: 1.0; margin-bottom: 0px; margin-top: 1em;" class="intro">Understand exactly what your visitors want with the world's ONLY<br>affordable, easy, all-in-one <span class="underline">web analytics</span> and <span class="underline">heat map tool</span>.</p>
             <button style="background-color: #000; padding: .5em; border: 1px solid #000; border-radius: 1em;" type="button" class="play-trigger btn-link featuresButton" style="opacity: 1.0"><i class="fa fa-youtube-play"></i> See why Ptengine is trusted by 20,000+ companies, including:<br>
 			<img src="assets/images/background/Ptengine-partners-bw-small.png" /></button>
         </div><!--//container-->
