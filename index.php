@@ -107,9 +107,9 @@
 	            <div style="float: left;"><h2 class="title">Your visitors are&nbsp;</h2></div>
     	        <div style="margin-left: 1em; border-bottom: 5px solid white; overflow: hidden"><div><h2 class="title" style="margin: 0px; margin-bottom: 5px; padding: 0px;"><span id="type"></span></h2></div></div>
     	    </div>
-            <p style="font-weight: bold; opacity: 1.0; margin-bottom: 0px; margin-top: 1em;" class="intro">So fix it! Know <i>exactly</i> what your visitors want with <span style="border-bottom: 1px dotted white">Ptengine</span>,<br>the world's ONLY affordable, easy-to-use <span class="underline">heat map</span> + <span class="underline">analytics</span> tool.</p>
+            <p style="font-weight: bold; opacity: 1.0; margin-bottom: 0px; margin-top: 0em;" class="intro">So fix it! Know <i>exactly</i> what your visitors want with <span style="border-bottom: 1px dotted white">Ptengine</span>,<br>the world's ONLY affordable, easy-to-use <span class="underline">heat map</span> + <span class="underline">analytics</span> tool.</p>
     	    <div>
-    	    	<button type="button" class="btn btn-cta btn-cta-primary" onclick="register()">SEE THE LIVE DEMO</button>
+    	    	<button type="button" class="btn btn-cta btn-cta-primary" style="margin-top: 1em" onclick="register()">SEE THE LIVE DEMO</button>
     	    </div>
 
             <button style="background-color: #000; padding: .5em; border: 1px solid #000; border-radius: 1em;" type="button" class="play-trigger btn-link featuresButton" style="opacity: 1.0"><i class="fa fa-youtube-play"></i> See why Ptengine is trusted by 20,000+ companies, including:<br>
